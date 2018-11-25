@@ -2,7 +2,7 @@
 ; Lab2_task1.asm
 ;
 ; Created: 2018/8/14 14:57:07
-; Author : lenovo
+; Author : Ran Bai
 ; Function : change type from string to int
 ; Replace with your application code
 .include "m2560def.inc"
